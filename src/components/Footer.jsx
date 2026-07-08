@@ -21,25 +21,25 @@ function Footer() {
         <div style={{ flex: 1, minWidth: '140px' }}>
           <h4 style={{ fontSize: '13px', fontWeight: '600', color: '#F8FAFC', marginBottom: '14px' }}>Product</h4>
           {['AI Employees', 'How It Works', 'Features', 'Pricing', 'Security'].map((link, i) => (
-            <div key={i} style={{ marginBottom: '10px' }}><a href="https://github.com" style={{ fontSize: '13px', color: '#94A3B8', textDecoration: 'none' }}>{link}</a></div>
+            <div key={i} style={{ marginBottom: '10px' }}><a href="#!" style={{ fontSize: '13px', color: '#94A3B8', textDecoration: 'none' }}>{link}</a></div>
           ))}
         </div>
 
         <div style={{ flex: 1, minWidth: '140px' }}>
           <h4 style={{ fontSize: '13px', fontWeight: '600', color: '#F8FAFC', marginBottom: '14px' }}>Company</h4>
           {['About Us', 'Careers', 'Blog', 'Contact'].map((link, i) => (
-            <div key={i} style={{ marginBottom: '10px' }}><a href="https://github.com" style={{ fontSize: '13px', color: '#94A3B8', textDecoration: 'none' }}>{link}</a></div>
+            <div key={i} style={{ marginBottom: '10px' }}><a href="#!" style={{ fontSize: '13px', color: '#94A3B8', textDecoration: 'none' }}>{link}</a></div>
           ))}
         </div>
 
         <div style={{ flex: 1, minWidth: '140px' }}>
           <h4 style={{ fontSize: '13px', fontWeight: '600', color: '#F8FAFC', marginBottom: '14px' }}>Resources</h4>
           {['Documentation', 'Guides', 'Help Center', 'Status'].map((link, i) => (
-            <div key={i} style={{ marginBottom: '10px' }}><a href="https://github.com" style={{ fontSize: '13px', color: '#94A3B8', textDecoration: 'none' }}>{link}</a></div>
+            <div key={i} style={{ marginBottom: '10px' }}><a href="#!" style={{ fontSize: '13px', color: '#94A3B8', textDecoration: 'none' }}>{link}</a></div>
           ))}
           <h4 style={{ fontSize: '13px', fontWeight: '600', color: '#F8FAFC', margin: '20px 0 14px' }}>Legal</h4>
           {['Privacy Policy', 'Terms of Service', 'Cookie Policy'].map((link, i) => (
-            <div key={i} style={{ marginBottom: '10px' }}><a href="https://github.com" style={{ fontSize: '13px', color: '#94A3B8', textDecoration: 'none' }}>{link}</a></div>
+            <div key={i} style={{ marginBottom: '10px' }}><a href="#!" style={{ fontSize: '13px', color: '#94A3B8', textDecoration: 'none' }}>{link}</a></div>
           ))}
         </div>
 
